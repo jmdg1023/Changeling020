@@ -55,12 +55,12 @@ e.preventDefault();
             <RiMessengerLine className='contact__option-icon' />
             <h4>Messenger</h4>
             <h5>Janine Michelle De Guzman-Policarpio</h5>
-            <a href="https://m.me/Ste112/" target="_blank" rel="noopener noreferrer">Send a message</a>
+            <a href="https://m.me/jmdg1023/" target="_blank" rel="noopener noreferrer">Send a message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon' />
             <h4>WhatsApp</h4>
-            <h5>+61423504059</h5>
+            <h5>+61410901023</h5>
             <a href="https://api.whatsapp.com/send?phone=+61*********" target="_blank" rel="noopener noreferrer">Send a message</a>
           </article>
         </div>

@@ -11,7 +11,6 @@ const HeaderSocials = () => {
     <div className='header__socials'>
       <a href="https://www.linkedin.com/in/janine-michelle-de-guzman-policarpio-871883124/" target="_blank" rel="noopener noreferrer"><BsLinkedin /></a>
       <a href="https://github.com/jmdg1023" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
-    
     </div>
   )
 }
