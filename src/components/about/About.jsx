@@ -22,14 +22,14 @@ const About = () => {
           <div className="about__cards">
             <article className='about__card'>
               <FaAward className='about__icon'/>
-              <h5>Financial Experience</h5>
-              <small>More than ten years</small>
+              <h5>Technical Experience</h5>
+              <small>Six years</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Industries</h5>
-              <small>Defence, Automotive, Manufacturing and IT</small>
+              <small>Insurance, NBN, MSP and Govenment</small>
             </article>
 
             <article className='about__card'>
@@ -39,9 +39,9 @@ const About = () => {
             </article>
           </div>
           <p>
-          Full stack developer leveraging background in finance and taxation to provide unique perspectives on how the end-users could interact with the websites and software platforms. Earned a certificate in Full Stack Web Development from The University of Adelaide Coding Boot Camp. I also have a Bachelor of Commerce (majoring in Accounting) from The University of New South Wales, Australia and worked for many years as an Accountant.
+          A graduate of BS in Information Technology in Philippines. Currently a Senior Support Analyst aspiring to unlock knowledge and opportunities to further my career in IT. 
           </p>
-          <p>Web Development and Information Systems always inspired me and I am very passionate about developing applications with a focus on mobile-first design and development. My strengths lie in creativity, teamwork, and building projects from ideation to execution.</p>
+          <p>Web Development and Programming has always piqued my interest.  I have this thirst for knowledge in IT that make me quite curious and keen in learning. Some of my strengths are my acquisitiveness and curiousity. I tend to want to learn everything I don't know about. I am very curious and quite the resourceful gal when motivated. </p>
 
           <a href="#contact" className='btn btn-primary'>Contact</a>
         </div>

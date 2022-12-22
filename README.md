@@ -51,9 +51,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Screenshots
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot](./src/assets/Screenshot1.jpg)
+![Screenshot](./src/assets/Screenshot2.jpg)
+![Screenshot](./src/assets/Screenshot3.jpg)
 
 ## Installation and Usage
 
